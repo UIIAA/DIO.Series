@@ -1,6 +1,5 @@
-# Digital Innovation One - Prática .NET
+## A Console serie Catalog in .net 3.1 
 
-## My First project In .Net.
 
 ### I Plan To Add New Features:
 - Google Search to match Series
